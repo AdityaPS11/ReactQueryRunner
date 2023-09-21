@@ -1,13 +1,14 @@
 # ReactQueryRunner
 
 📚 ## Description
+
 Create, design, and implement a web-based application capable of running SQL queries and displaying the results of said query. The application must include a space that accepts SQL queries in the form of user inputs, then runs the given query, and displays the result within the application.
 
 This is a REACT QueryRunner built using Vite+ReactJs and TailwindCSS.
 
 👨‍💻 Live Demo
 
-[Try out the website:](https://reactqueryrunner.netlify.app/)
+[ReactQueryRunner](https://reactqueryrunner.netlify.app/)
 
 ⚙️ Dependencies
 react-ace
