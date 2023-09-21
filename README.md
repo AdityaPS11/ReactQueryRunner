@@ -8,7 +8,7 @@ This is a REACT QueryRunner built using Vite+ReactJs and TailwindCSS.
 
 👨‍💻 Live Demo
 
-[ReactQueryRunner](https://reactqueryrunner.netlify.app/)
+[ReactQueryRunner:](https://reactqueryrunner.netlify.app/)
 
 ⚙️ Dependencies
 react-ace
